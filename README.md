@@ -1,2 +1,4 @@
-# bash-logger-95
+# Bash Logger 95
+
 Compress logging directories into backups in Bash.
+
